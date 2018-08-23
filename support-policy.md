@@ -34,46 +34,39 @@ The Supergiant Support Policy is the primary document for communicating support 
 # Support Tiers
 
 ## Development Support
-Hours of Support: Business Hours
-Unlimited Support Tickets, One Concurrent Issue
-Response Times
-Severity
-Response Time
-Severity 1
-Two Business Days
-Severity 2
-Two Business Days
-Severity 3
-Two Business Days
+* Hours of Support: Business Hours
+* Unlimited Support Tickets, One Concurrent Issue
+* Response Times:
+
+| Severity   | Response Time     |
+|------------|-------------------|
+| Severity 1 | Two Business Days |
+| Severity 2 | Two Business Days |
+| Severity 3 | Two Business Days |
 
 ## Gold Production Support
-Hours of Support: Business Hours
-Unlimited Support Tickets
-Response Time
-Severity
-Response Time
-Severity 1
-4 Hours
-Severity 2
-12 Hours
-Severity 3
-Next Business Day
-3 Named Company Support Specialists
+* Hours of Support: Business Hours
+* Unlimited Support Tickets
+* 3 Named Company Support Specialists
+* Response Times:
+
+| Severity   | Response Time     |
+|------------|-------------------|
+| Severity 1 | 4 Hours           |
+| Severity 2 | 12 Hours          |
+| Severity 3 | Next Business Day |
 
 ## Platinum Production Support
-Hours of Support: 24x7x365
-Unlimited Support Tickets
-Response Time
-Severity
-Response Time
-Severity 1
-1 Hour
-Severity 2
-4 Hours
-Severity 3
-12 Hours
+* Hours of Support: 24x7x365
+* Unlimited Support Tickets
+* 5 Named Company Support Specialists
+* Response Times:
 
-5 Named Company Support Specialists
+| Severity   | Response Time     |
+|------------|-------------------|
+| Severity 1 | 1 Hour            |
+| Severity 2 | 4 Hours           |
+| Severity 3 | 12 Hours          |
 
 # Severity Levels
 
